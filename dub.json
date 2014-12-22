@@ -1,0 +1,6 @@
+{
+	"name" : "dWt",
+	"description" : "D bindings for Wt.",
+	"dependencies" : {
+	}
+}
